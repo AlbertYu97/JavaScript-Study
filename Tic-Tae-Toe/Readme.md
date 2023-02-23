@@ -4,7 +4,10 @@
 
 
 # About
-I have developed a tic-tac-toe game that enables players to engage in the game and also notifies them when a player has emerged victorious.
+I have developed a tic-tac-toe game that 
+ - Lets you play tic-tac-toe
+ - Indicate who is the next player
+ - Indicates when a player has won the game
 
 ## Usage exmaple
 
